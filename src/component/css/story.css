@@ -1,0 +1,52 @@
+.storyBox{
+  margin-top: 65px;
+  background-color: #242526;
+  border-radius: 2.5%;
+  width: 477px;
+  height: 260px;
+}
+
+.storyFlex {
+  display: flex;
+}
+.des {
+  width: 36vw;
+  color: aliceblue;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+  font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+  font-size: 0.9rem;
+  color: #b0b3b8;
+  font-weight: 600;
+}
+.hr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.line-1 {
+  border-bottom: 1px solid #3e4042;
+  margin-top: 20px;
+  width: 36vw;
+}
+.story-box-1 {
+  display: flex;
+  width: 36vw;
+  height: 33vh;
+  margin-top: 10px;
+  justify-content: center;
+
+}
+.story {
+  width: 8vw;
+  height: 28vh;
+  margin: 8px 0px 0px 9px;
+  border-radius: 10%;
+}
+.story img {
+  width: 100px;
+  height: 175px;
+  border-radius: 10%;
+
+}

@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+  
+}
+body{
+  background-color: #18191a;
+
+  height: 100vh;
+}
+
+.flexbox{
+  display: flex;
+}
+
+.right-fixed{
+  position: fixed;
+  left: 80%;
+  top: 52px;
+}
+.center{
+  display: flex;
+  justify-content: center;
+}
